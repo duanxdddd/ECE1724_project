@@ -28,3 +28,5 @@ The second dataset we compiled to locate each bike station is the station inform
 | Capacity                        | Bike rack capacity of the station, integer |
 
 It is worth mentioning that the start station id and end station id from the ridership dataset are associated with the station_id in the stations dataset.
+
+Please refer to the stations_dataset_preproc.ipynb/html file to go through the data preprocess. The generated maps including the basic distribution map of the shared bike terminals, hexagonal binning map, and the cluster map show that there are more bike terminals in downtown Toronto than in other areas of GTA.
